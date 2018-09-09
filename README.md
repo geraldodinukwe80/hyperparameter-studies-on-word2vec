@@ -1,4 +1,4 @@
-This repository contains the source code and files for the master thesis "Hyperparameter Studies on Word Embedding" by Odinukwe Gerald C. In the master thesis, an experiment was carried out to study the influences of some of the hyperparameters of word2vec on the model accuracy by performing a sentiment anlalysis usin the k nearest neighbor classifier. More details is availabe on the paper further details, please refer to the paper.
+This repository contains the source code and files for the master thesis "Hyperparameter Studies on Word Embedding" by Odinukwe Gerald C. In the master thesis, an experiment was carried out to study the influences of some of the hyperparameters of word2vec on the model accuracy by performing a sentiment anlalysis using the k nearest neighbor classifier. More details is availabe on the paper further details, please refer to the paper.
 
 
 The source code files are two ipyb notebooks and four .py files.
